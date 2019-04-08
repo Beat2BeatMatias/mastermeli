@@ -16,3 +16,10 @@ Comandos usados:
 3) Pushear commits al repositorio remoto:
 
         $ git push origin master
+
+
+
+### Frase de Inspiración
+> What one programmer can do in one month, two programmers can do in two months.  
+> 
+> -- <cite>Fred Brooks</cite>
